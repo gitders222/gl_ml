@@ -1,2 +1,2 @@
-# Coding test for GL
+# Coding for GL
 MNIST problem solved with MLP 
